@@ -1,7 +1,4 @@
-@font-face {
-  font-family: "Inter";
-  src: url(../font/Inter-VariableFont_slnt,wght.ttf);
-}
+
 
 h1 {
   font-family: "Inter";
@@ -77,6 +74,7 @@ p {
   align-items: flex-end; */
 }
 
+
 .BoxPlay{
   position: absolute;
   width: 7.92vw;
@@ -85,7 +83,7 @@ p {
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-  padding-left: 78.5vw;
+  margin-left: 78.5vw;
 }
 
 .BoxPlay1{
@@ -96,14 +94,14 @@ p {
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-  padding-left: 78.5vw;
+  margin-left: 78.5vw;
 }
 
 .BoxPlayContent1{
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -115,7 +113,7 @@ p {
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -128,7 +126,7 @@ p {
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 2vw;
+  margin-bottom: 2vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -140,14 +138,14 @@ p {
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 
 .BoxPlayContent21{
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 
 
@@ -156,7 +154,7 @@ p {
   opacity: 0;
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 2vw;
+  margin-bottom: 2vw;
 
 }
 
@@ -181,7 +179,7 @@ p {
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-  padding-left: 88.5vw;
+  margin-left: 88.5vw;
 }
 
 .BoxKnopka1{
@@ -192,14 +190,14 @@ p {
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-  padding-left: 88.5vw;
+  margin-left: 88.5vw;
 }
 
 
 .BoxKnopkaContentStrelka{
   height: 7.91vw;
   width: 7.91vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -215,7 +213,7 @@ p {
 .BoxKnopkaContent1{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -226,7 +224,7 @@ p {
 .BoxKnopkaContent2{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -237,7 +235,7 @@ p {
 .BoxKnopkaContent3{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 2vw;
+  margin-bottom: 2vw;
   transition: cubic-bezier(.51,.06,.78,.36), 0.25s;
 }
 
@@ -248,19 +246,19 @@ p {
 .BoxKnopkaContent11{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 
 .BoxKnopkaContent21{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 
 .BoxKnopkaContent31{
   height: 7.92vw;
   width: 7.92vw;
-  padding-bottom: 2vw;
+  margin-bottom: 2vw;
 }
 
 .knopka{
